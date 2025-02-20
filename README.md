@@ -1,0 +1,2 @@
+# WasteClassifierCNN
+A convolutional neural network trained on a dataset of 5,500 images, expanded using data augmentation techniques. It can classify garbage into 8 categories: battery, cardboard, glass, metal, organic, paper, plastic, and textile.
